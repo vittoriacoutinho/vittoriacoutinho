@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Vittoria Coutinho
 
-<!--
-**vittoriacoutinho/vittoriacoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que conheço:
+- JavaScript
+- PHP
+- HTML & CSS
+- Python
+
+### 🌱 Estudando atualmente:
+- Node.js
+- Banco de Dados (MySQL)
+- Desenvolvimento Web Full Stack
+
+---
+
+### 📊 Meus status no GitHub:
+
+![Vittoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vittoriacoutinho&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriacoutinho&layout=compact&theme=tokyonight)
+
+![Visitas no perfil](https://komarev.com/ghpvc/?username=vittoriacoutinho&color=blue)
+
+---
+
+### 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-coutinho-236717358/)](https://www.linkedin.com/in/vittoria-coutinho-236717358/)
+
+---
+
+### ✨ Curiosidades:
+
+- 💬 Gosto de falar sobre programação, criatividade e evolução pessoal
+
+---
+
+
