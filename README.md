@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
 
-### 💻 Tecnologias que conheço:
+### 💻 Tecnologias que domino:
 - JavaScript
 - PHP
 - HTML & CSS
@@ -32,10 +32,6 @@
 
 ---
 
-### ✨ Curiosidades:
 
-- 💬 Gosto de falar sobre programação, criatividade e evolução pessoal
-
----
 
 
