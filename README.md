@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Vittoria Coutinho
+##  Olá! Eu sou Vittoria Coutinho
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
@@ -9,7 +9,7 @@
 - HTML & CSS
 - Python
 
-### 🌱 Estudando atualmente:
+###  Estudando atualmente:
 - Node.js
 - Banco de Dados (MySQL)
 - Desenvolvimento Web Full Stack
@@ -26,7 +26,7 @@
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-coutinho-236717358/)](https://www.linkedin.com/in/vittoria-coutinho-236717358/)
 
