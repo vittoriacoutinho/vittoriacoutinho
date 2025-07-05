@@ -5,10 +5,16 @@ Entusiasta da computação e apaixonada por aprendizado contínuo.
 
 ---
 
-### Repositório em destaque
+### Meus repositórios
 
-**[Eletromarketing](https://github.com/vittoriacoutinho/eletromarketing)**  
-Projeto voltado ao estudo e desenvolvimento de estratégias de marketing com apoio de ferramentas computacionais.
+<div align="left">
+
+<a href="https://github.com/vittoriacoutinho/eletromarketing">
+  <strong>Eletromarketing</strong><br/>
+  Sistema de apoio à divulgação de campanhas e estratégias de marketing por meios eletrônicos.
+</a>
+
+</div>
 
 ---
 
