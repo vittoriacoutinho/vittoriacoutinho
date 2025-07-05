@@ -5,17 +5,7 @@ Entusiasta da computação e apaixonada por aprendizado contínuo.
 
 ---
 
-### Meus repositórios
 
-<div align="left">
-
-<a href="https://github.com/vittoriacoutinho/eletromarketing">
-  <strong>Eletromarketing</strong><br/>
-  </a>
-
-</div>
-
----
 
 ### GitHub Stats
 
