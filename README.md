@@ -1,18 +1,7 @@
 ##  Olá! Eu sou Vittoria Coutinho
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+-- Estudante de **Análise e Desenvolvimento de Sistemas. Entusiasta da computação.** 
 
-
-### 💻 Tecnologias que domino:
-- JavaScript
-- PHP
-- HTML & CSS
-- Python
-
-###  Estudando atualmente:
-- Node.js
-- Banco de Dados (MySQL)
-- Desenvolvimento Web Full Stack
 
 ---
 
