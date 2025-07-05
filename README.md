@@ -1,4 +1,4 @@
-## Olá! Eu sou Vittoria Coutinho
+## Olá, eu sou Vittoria Coutinho
 
 Estudante de Análise e Desenvolvimento de Sistemas.  
 Entusiasta da computação e apaixonada por aprendizado contínuo.
@@ -11,8 +11,7 @@ Entusiasta da computação e apaixonada por aprendizado contínuo.
 
 <a href="https://github.com/vittoriacoutinho/eletromarketing">
   <strong>Eletromarketing</strong><br/>
-  Sistema de apoio à divulgação de campanhas e estratégias de marketing por meios eletrônicos.
-</a>
+  </a>
 
 </div>
 
