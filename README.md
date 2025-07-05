@@ -1,26 +1,27 @@
-##  Olá! Eu sou Vittoria Coutinho
+## Olá! Eu sou Vittoria Coutinho
 
--- Estudante de **Análise e Desenvolvimento de Sistemas. Entusiasta da computação.** 
-
+Estudante de Análise e Desenvolvimento de Sistemas.  
+Entusiasta da computação e apaixonada por aprendizado contínuo.
 
 ---
 
-### 📊 Meus status no GitHub:
+### Repositório em destaque
 
-![Vittoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vittoriacoutinho&show_icons=true&theme=tokyonight)
+**[Eletromarketing](https://github.com/vittoriacoutinho/eletromarketing)**  
+Projeto voltado ao estudo e desenvolvimento de estratégias de marketing com apoio de ferramentas computacionais.
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vittoriacoutinho&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriacoutinho&layout=compact&theme=tokyonight)
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=vittoriacoutinho&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vittoriacoutinho&color=blue)
 
 ---
 
-### 🌐 LinkedIn
+### LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-coutinho-236717358/)](https://www.linkedin.com/in/vittoria-coutinho-236717358/)
-
----
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittoria-coutinho-236717358/)
